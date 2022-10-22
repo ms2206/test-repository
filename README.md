@@ -1,2 +1,2 @@
 # test-repository
-uni of sussex git and git hub demo 09 APR 21
+LinkedIn learning git and git hub
